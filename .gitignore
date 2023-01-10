@@ -2,3 +2,7 @@ node_modules
 dist
 *.png
 *.mp4
+*.jpg
+*.gif
+src/img
+src/videos
